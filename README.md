@@ -1,4 +1,4 @@
 # mealapp
- This is Host URL => https://github.com/Abhay076/mealapp.git
+ This is Host URL => https://abhay076.github.io/mealapp/index
  
  This is build using HTML, CSS, JAVASCRIPT
